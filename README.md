@@ -1,7 +1,4 @@
 # ProyectoDistribuidos
---Carpeta node modules
-La carpeta "node_modules" es un directorio que se crea automáticamente en proyectos de Node.js y contiene todas las dependencias y módulos de terceros que se utilizan en el proyecto. Estos módulos son paquetes de código que han sido publicados y compartidos por otros desarrolladores en el registro público de paquetes de Node.js conocido como npm
-
 --Carpeta nodo1/nodo2/nodo3
   --Archivo dataBase.json: Archivo que hace de almacenamiento para los nodos seguidores en formato .json
   --Archivo liderSeguidor.js: Archivo que hace de servidor donde se almacena la lógica donde se leer un archivo .json que indica si el nodo es lider o seguidor y realiza las actividades de servidor.
@@ -21,8 +18,8 @@ La carpeta "node_modules" es un directorio que se crea automáticamente en proye
 
 **--------------------Archivos del Web aplication----------------------**
 --Archivo WebApplication3.sln: Es un archivo de solución utilizado por Microsoft Visual Studio.
---Archivo WebApplication3\WebApplication3\Models\Formulario.cs: Constructor del objeto formulario.
---Archivo WebApplication3\WebApplication3\Controllers\FormularioController.cs: Archivo donde se tiene toda la logica de los microservicios:
+--Archivo Formulario.cs: Constructor del objeto formulario.
+--Archivo FormularioController.cs: Archivo donde se tiene toda la logica de los microservicios:
 guardar
 eliminar
 reemplazar
