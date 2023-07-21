@@ -1,0 +1,23 @@
+[
+  {
+    "url": "http://localhost:5231/",
+    "cargo": "lider",
+    "ultid": "20",
+    "estado": "encendido",
+    "puerto": "5231"
+  },
+  {
+    "url": "http://localhost:5232/",
+    "cargo": "seguidor",
+    "ultid": "20",
+    "estado": "encendido",
+    "puerto": "5232"
+  },
+  {
+    "url": "http://localhost:5233/",
+    "cargo": "seguidor",
+    "ultid": "20",
+    "estado": "encendido",
+    "puerto": "5233"
+  }
+]
