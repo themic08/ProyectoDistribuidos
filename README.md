@@ -26,3 +26,5 @@ reemplazar
 listarUno
 listarTodo
 litarCondicion
+--Archivo launchSettings.json: Archivo donde se configura el puerto 5230.
+
