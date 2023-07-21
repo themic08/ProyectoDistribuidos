@@ -18,3 +18,14 @@ La carpeta "node_modules" es un directorio que se crea automáticamente en proye
 --Archivo package.json: El archivo "package.json" es un archivo de configuración esencial en proyectos de Node.js que se utiliza para definir y administrar las dependencias, scripts, y metadatos del proyecto.
 --Archivo registros.json: Archivo donde se guardan los datos capturados del formulario.
 --Archivo sensaServidor.js: Archivo servidor que es el encargado de sensar y guardar los datos en el archivo configuracion.json.
+
+**--------------------Archivos del Web aplication----------------------**
+--Archivo WebApplication3.sln: Es un archivo de solución utilizado por Microsoft Visual Studio.
+--Archivo WebApplication3\WebApplication3\Models\Formulario.cs: Constructor del objeto formulario.
+--Archivo WebApplication3\WebApplication3\Controllers\FormularioController.cs: Archivo donde se tiene toda la logica de los microservicios:
+guardar
+eliminar
+reemplazar
+listarUno
+listarTodo
+litarCondicion
