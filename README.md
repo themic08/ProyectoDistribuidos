@@ -16,6 +16,7 @@
 --Archivo registros.json: Archivo donde se guardan los datos capturados del formulario.
 --Archivo sensaServidor.js: Archivo servidor que es el encargado de sensar y guardar los datos en el archivo configuracion.json.
 
+
 **--------------------Archivos del Web aplication----------------------**
 --Archivo WebApplication3.sln: Es un archivo de solución utilizado por Microsoft Visual Studio.
 --Archivo Formulario.cs: Constructor del objeto formulario.
